@@ -97,7 +97,7 @@ section img {
 
 #work {
   position: absolute;
-  color: #212529;
+  color: #fff;
   white-space: nowrap;
   font-size: 80px;
   z-index: 9;
@@ -133,7 +133,7 @@ section img {
 
 #resume {
   position: absolute;
-  color: #212529;
+  color: #fff;
   white-space: nowrap;
   font-size: 80px;
   z-index: 9;
